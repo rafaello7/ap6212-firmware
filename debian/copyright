@@ -1,5 +1,9 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Source: <http://github.com/debian-installer-nanopi-m3>
+Source: <http://github.com/rafaello7/ap6212-firmware>
+
+Files: lib/firmware/brcm/*
+License: Broadcom proprietary
+ See https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/plain/LICENCE.broadcom_bcm43xx
 
 Files: *
 Copyright: 2017 Rafal <fatwildcat@gmail.com>
