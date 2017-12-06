@@ -1,0 +1,6 @@
+/debian/.debhelper/
+/debian/*.debhelper.log
+/debian/*.substvars
+/debian/ap6212-firmware-di/
+/debian/ap6212-firmware/
+/debian/files

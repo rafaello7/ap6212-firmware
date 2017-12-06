@@ -1,0 +1,11 @@
+ap6212-firmware (2) unstable; urgency=medium
+
+  * Get new firmware version from https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/brcm/brcmfmac43430a0-sdio.bin
+
+ -- Rafal <fatwildcat@gmail.com>  Wed, 06 Dec 2017 14:00:37 +0100
+
+ap6212-firmware (1) unstable; urgency=medium
+
+  * Initial release
+
+ -- Rafal <fatwildcat@gmail.com>  Fri, 28 Jul 2017 00:24:09 +0200
